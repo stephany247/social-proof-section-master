@@ -194,7 +194,7 @@ body {
 }
 
 .attribution a {
-  color: var(--dark-grayish-magenta);
+  color: var(--very-dark-magenta);
   font-weight: 700;
   text-decoration: underline;
   text-underline-offset: 0.1875rem;
